@@ -1,5 +1,7 @@
+import { Stage } from "@pixi/react";
+
 const Experience = () => {
-  return <div></div>;
+  return <Stage width={500} height={500}></Stage>;
 };
 
 export default Experience;

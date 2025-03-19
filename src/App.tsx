@@ -1,6 +1,6 @@
 import Experience from "./components/Experience/Experience";
 
-const app = () => {
+const App = () => {
   return (
     <>
       <Experience />{" "}
